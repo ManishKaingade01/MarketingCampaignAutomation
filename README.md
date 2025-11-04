@@ -54,4 +54,4 @@ QA Engineer | Manual & Automation Testing Enthusiast
 ---
 
 ## 📅 Submission Note
-> The project was submitted 36 minutes after the deadline due to unexpected technical delays because of Eclipse was not opening when task was completed during final upload.
+This project was completed as part of a QA hands-on assessment, demonstrating both manual and automation testing skills using Selenium WebDriver and Java. It includes structured test cases, automation scripts, and a detailed manual testing report for the Marketing Campaign module.
